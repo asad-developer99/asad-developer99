@@ -1,236 +1,74 @@
-# <div align="center">Hi, I'm Asad Developer 👋</div>
+<h1 align="center">Hi, I'm Pro 👋</h1>
+<h3 align="center">Full Stack Developer | PHP · Laravel · MySQL · React · JavaScript</h3>
 
-<div align="center">
-
-### Full-Stack Web Developer • Laravel & React Developer • Building Scalable Web Applications
-
-<p>
-Passionate about creating fast, secure, and user-focused web applications with modern technologies and clean architecture.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=550&lines=Building+production-ready+web+applications;Laravel+%2B+PHP+%2B+MySQL+specialist;Converting+templates+into+full-stack+apps;Security-conscious+developer" alt="Typing SVG" />
 </p>
 
-</div>
+<p align="center">
+  📍 Based in Karachi, Pakistan &nbsp;|&nbsp; 💻 XAMPP / LAMP stack &nbsp;|&nbsp; 🔐 Security-aware development
+</p>
 
 ---
 
-## About Me
+### 🧑‍💻 About Me
 
-I'm a Full-Stack Web Developer focused on building scalable, maintainable, and production-ready web applications.
-
-My expertise spans frontend development, backend systems, API architecture, database design, and deployment workflows. I enjoy transforming ideas into reliable digital products that deliver real-world value.
-
-I believe great software is built through clean code, thoughtful architecture, performance optimization, and continuous improvement.
-
----
-
-## Current Focus
-
-* Developing modern Laravel applications
-* Building interactive React interfaces
-* Designing scalable RESTful APIs
-* Improving application performance and security
-* Exploring advanced full-stack architectures
-* Open to collaborations and freelance opportunities
+- 🚀 I build and convert web applications end-to-end — from frontend templates to full-stack, database-driven platforms
+- 🛠️ My core stack: **PHP, MySQL, JavaScript, React, Laravel**
+- 🔁 I specialize in converting static/frontend templates (HTML, React/Vite, Next.js) into complete, functional backend-driven applications
+- 🔐 Strong interest in cybersecurity — I audit and harden the apps I build
+- 📚 Also passionate about general knowledge, Pakistani history, and building educational/learning platforms
 
 ---
 
-## Tech Stack
+### 🌟 Featured Projects
 
-### Frontend
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge\&logo=bootstrap\&logoColor=white)
-
-### Backend
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white)
-
-### Database
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-
-### Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+| Project | Description | Stack |
+|---|---|---|
+| **Vortexus** | Laravel-based course platform — full security audit identifying & fixing 28 vulnerabilities, plus visual redesign | Laravel, MySQL |
+| **MailFlux** | Disposable email platform with real-time inbox updates via WebSockets | Laravel 11, Mail.tm API, Reverb, Redis |
+| **StudyVault** | Educational e-commerce store (books, notes, courses) — converted from a JS-heavy SPA into a pure PHP multi-page app | PHP, MySQL, PRG pattern |
+| **GK Memory Master** | Spaced-repetition learning app with SM2-inspired algorithm and 5 quiz challenge modes | Core PHP, MySQL |
+| **Academy Platform** | Full-stack e-learning platform with auth, course/notes/books catalog, manual payment flow, and admin panel | PHP, MySQL |
+| **Developer Portfolio** | Single-page portfolio with skills grid, experience highlights, and project showcase | HTML, CSS, JS |
 
 ---
 
-## GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=asad-developer99&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asad-developer99&layout=compact&theme=transparent&hide_border=true"/>
-
-<img src="https://streak-stats.demolab.com?user=asad-developer99&theme=transparent&hide_border=true"/>
-
-</div>
-
----
-
-## Featured Projects
-
-### Project One
-
-**Description**
-
-Production-ready web application focused on performance, scalability, and user experience.
-
-**Technologies**
-
-Laravel • MySQL • React • Tailwind CSS
-
-**Key Features**
-
-* Secure authentication
-* Responsive UI
-* REST API integration
-* Optimized database queries
-
-**Repository**
-
-```text
-Coming Soon
-```
-
-**Live Demo**
-
-```text
-Coming Soon
-```
-
----
-
-### Project Two
-
-**Description**
-
-Modern business solution built using industry-standard development practices.
-
-**Technologies**
-
-PHP • Laravel • Bootstrap • MySQL
-
-**Key Features**
-
-* Dashboard Analytics
-* User Management
-* Role-Based Access Control
-* Responsive Design
-
-**Repository**
-
-```text
-Coming Soon
-```
-
-**Live Demo**
-
-```text
-Coming Soon
-```
-
----
-
-## Professional Services
-
-### Full-Stack Development
-
-End-to-end development of modern web applications.
-
-### Laravel Development
-
-Robust backend systems using Laravel best practices.
-
-### React Applications
-
-Interactive and high-performance frontend experiences.
-
-### API Development
-
-Secure and scalable RESTful API solutions.
-
-### Database Architecture
-
-Efficient database design and optimization.
-
-### SaaS Development
-
-Custom software products for businesses and startups.
-
-### Performance Optimization
-
-Improving speed, scalability, and user experience.
-
-### Deployment & Maintenance
-
-Reliable deployment and ongoing support.
-
----
-
-## Development Workflow
-
-```text
-Requirements Analysis
-        ↓
-UI/UX Planning
-        ↓
-Frontend Development
-        ↓
-Backend Development
-        ↓
-Database Design
-        ↓
-Testing & QA
-        ↓
-Deployment
-        ↓
-Maintenance & Scaling
-```
-
----
-
-## Contribution Philosophy
-
-I strive to build software that is:
-
-* Clean and maintainable
-* Secure by design
-* Scalable for growth
-* Performance-focused
-* User-centered
-* Well-documented
-* Continuously improved
-
-Every project is an opportunity to deliver quality, solve meaningful problems, and create long-term value.
-
----
-
-## Connect With Me
+### 🧰 Tech Stack
 
 <p align="left">
-
-<a href="https://asad.lovestoblog.com/">
-<img src="https://img.shields.io/badge/Portfolio-Visit_Website-black?style=for-the-badge">
-</a>
-
-<a href="mailto:asad.developer99@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge">
-</a>
-
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
 
-<div align="center">
+### 📊 GitHub Stats
 
-### "Building software that solves real-world problems through clean architecture, scalable systems, and thoughtful user experiences."
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true" />
+</p>
 
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true" />
+</p>
+
+---
+
+### 📫 Connect With Me
+
+<p align="left">
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
+
+<p align="center"><i>⭐️ From <a href="https://github.com/YOUR_GITHUB_USERNAME">YOUR_GITHUB_USERNAME</a></i></p>
