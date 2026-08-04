@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Hi%20There,%20I'm%20Asad%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20crafting%20clean,%20modern%20experiences&descAlignY=58&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Hi%20There,%20I'm%20Asad%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20building%20production-ready%20web%20apps&descAlignY=58&descSize=16" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=90&lines=Web+Developer+%7C+PHP+%26+Laravel;Building+Responsive%2C+Modern+Web+Apps;Currently+Leveling+Up+with+Laravel+%2B+REST+APIs" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=90&lines=Full-Stack+Developer+%7C+PHP+%26+Laravel;Building+Complete+Production-Ready+Web+Apps;React+%2B+MySQL+%2B+REST+APIs" alt="Typing SVG" />
 
 <br/>
 
@@ -30,14 +30,14 @@
 ## 📍 About Me
 
 ```yaml
-name: "Asad"
-role: "Web Developer"
-location: "Pakistan 🇵🇰"
-focus: "Responsive, modern, user-friendly web experiences"
+name: "Asad Mujtaba"
+role: "Full-Stack Web Developer"
+location: "Karachi, Pakistan 🇵🇰"
+focus: "Production-ready web apps — backend architecture, frontend design, deployment"
 philosophy: "Learn continuously. Build practically. Ship clean code."
 ```
 
-I'm a passionate web developer focused on building **responsive, modern, and user-friendly** websites and web applications. I enjoy exploring new technologies, solving real-world problems, and steadily sharpening my craft — one project at a time. I'm currently deepening my backend skills with **Laravel**, **REST APIs**, and clean architecture practices.
+I'm a full-stack web developer who builds complete, production-ready web applications independently — from database schema and backend architecture through frontend design and deployment. My core stack is **PHP, Laravel, MySQL, JavaScript, and React**. I enjoy taking a project from idea to a real, working product rather than stopping at a prototype.
 
 <br/>
 
@@ -50,7 +50,7 @@ I'm a passionate web developer focused on building **responsive, modern, and use
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Responsive_Design-FF6F61?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 
 **Backend**
 
@@ -71,15 +71,14 @@ I'm a passionate web developer focused on building **responsive, modern, and use
 
 <br/>
 
-## 📚 Currently Learning
+## 📚 Currently Leveling Up
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Laravel-Deep_Dive-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/Laravel-Advanced_Patterns-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
 <img src="https://img.shields.io/badge/REST_APIs-Building-2c5364?style=flat-square&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Auth_Systems-Studying-0f2027?style=flat-square&logo=auth0&logoColor=white" />
-<img src="https://img.shields.io/badge/Clean_Code-Practicing-00c6ff?style=flat-square&logo=codefactor&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-Learning-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/App_Security-Auditing-0f2027?style=flat-square&logo=auth0&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-Query_Optimization-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 
 </div>
 
@@ -93,48 +92,60 @@ I'm a passionate web developer focused on building **responsive, modern, and use
 <tr>
 <td width="50%">
 
-### ♟️ Frontend Chess Design
-Modern, responsive chess-themed frontend design built with clean HTML/CSS/JS practices.
+### 🎓 Vortexus
+Laravel course platform, built and put through a full enterprise-grade security audit.
 
-`HTML5` `CSS3` `JavaScript`
-
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/asad-developer99/frontend-chess-design)
+`Laravel` `PHP` `MySQL`
 
 </td>
 <td width="50%">
 
-### 🔐 VIP Login & Signup
-A polished, user-focused authentication UI/flow — login and signup screens built with attention to UX detail.
+### 📚 StudyVault
+PHP/MySQL courses, notes & books store using the PRG (Post/Redirect/Get) pattern.
 
-`HTML5` `CSS3` `JavaScript`
-
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/asad-developer99/vip-login-signup)
+`PHP` `MySQL`
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🌱 More Coming Soon
-Currently building the next project — check back soon!
+### 🏫 Academy Platform
+Full-stack multi-role academy platform with a manual payment flow and admin panel.
 
-`Laravel` `PHP` `MySQL`
-
-![Status](https://img.shields.io/badge/Status-In_Progress-yellow?style=for-the-badge)
+`PHP` `MySQL`
 
 </td>
 <td width="50%">
 
-### 🌱 More Coming Soon
-A new idea, always in the works.
+### 📧 MailFlux
+Disposable email platform on Laravel 11 with a real-time stack.
 
-`REST API` `Auth`
+`Laravel 11` `Real-time`
 
-![Status](https://img.shields.io/badge/Status-Planned-lightgrey?style=for-the-badge)
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🧠 GK Memory Master
+Spaced-repetition general knowledge quiz app in core PHP/MySQL.
+
+`PHP` `MySQL`
+
+</td>
+<td width="50%">
+
+### 🛍️ Forever Store
+E-commerce store, converted from a JS stack to a pure PHP/MySQL implementation.
+
+`PHP` `MySQL`
 
 </td>
 </tr>
 </table>
+
+[![Repo](https://img.shields.io/badge/View_All_Repos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/asad-developer99?tab=repositories)
 
 </div>
 
@@ -142,12 +153,12 @@ A new idea, always in the works.
 
 ## 🎯 Goals for 2026
 
-- 🔹 Master **Laravel** and ship a full-stack production app
-- 🔹 Design and consume **REST APIs** confidently
-- 🔹 Implement secure **authentication & authorization systems**
-- 🔹 Strengthen **MySQL** database design and query optimization
+- 🔹 Keep shipping production-ready full-stack apps end to end
+- 🔹 Deepen REST API design and consumption patterns
+- 🔹 Get sharper at application security audits and hardening
+- 🔹 Strengthen MySQL database design and query optimization
 - 🔹 Contribute to my first **open source** project
-- 🔹 Build and launch a personal **portfolio website**
+- 🔹 Grow the portfolio with more case studies
 - 🔹 Write cleaner, more maintainable code following industry best practices
 
 <br/>
@@ -171,7 +182,7 @@ I'm actively looking to make my first meaningful contributions to open source in
 
 | Platform | Link |
 |---|---|
-| 🌐 Portfolio Website | [VISIT NOW](https://asad-mujtaba.is-a.dev) |
+| 🌐 Portfolio Website | [VISIT NOW](https://portfolio-sepia-eight-29.vercel.app/) |
 | 📁 Case Studies | Coming Soon |
 | 🎨 Design Showcase | Coming Soon |
 
@@ -222,10 +233,9 @@ I'm actively looking to make my first meaningful contributions to open source in
 
 <div align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://asad-mujtaba.is-a.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-<a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="https://portfolio-sepia-eight-29.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="mailto:asad.developer99@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/asad-developer99"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
 
