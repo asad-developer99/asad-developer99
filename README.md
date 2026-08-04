@@ -184,12 +184,9 @@ I'm actively looking to make my first meaningful contributions to open source in
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=asad-developer99&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Stats" height="165"/>
 <img src="https://streak-stats.demolab.com/?user=asad-developer99&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
 
 <br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asad-developer99&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" height="165"/>
 
 <br/><br/>
 
