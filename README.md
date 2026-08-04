@@ -172,7 +172,7 @@ I'm actively looking to make my first meaningful contributions to open source in
 
 | Platform | Link |
 |---|---|
-| 🌐 Portfolio Website | [VISIT NOW](https://portfolio-sepia-eight-29.vercel.app/) |
+| 🌐 Portfolio Website | [VISIT NOW](https://asad-mujtaba.is-a.dev) |
 | 📁 Case Studies | Coming Soon |
 | 🎨 Design Showcase | Coming Soon |
 
@@ -220,7 +220,7 @@ I'm actively looking to make my first meaningful contributions to open source in
 
 <div align="center">
 
-<a href="https://portfolio-sepia-eight-29.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://asad-mujtaba.is-a.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 <a href="mailto:asad.developer99@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/asad-developer99"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
