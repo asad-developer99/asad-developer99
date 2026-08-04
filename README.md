@@ -171,7 +171,7 @@ I'm actively looking to make my first meaningful contributions to open source in
 
 | Platform | Link |
 |---|---|
-| 🌐 Portfolio Website | [Coming Soon](https://asad-mujtaba.is-a.dev) |
+| 🌐 Portfolio Website | [VISIT NOW](https://asad-mujtaba.is-a.dev) |
 | 📁 Case Studies | Coming Soon |
 | 🎨 Design Showcase | Coming Soon |
 
