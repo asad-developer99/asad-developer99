@@ -92,54 +92,44 @@ I'm a full-stack web developer who builds complete, production-ready web applica
 <tr>
 <td width="50%">
 
-### 🎓 Vortexus
-Laravel course platform, built and put through a full enterprise-grade security audit.
+### ♟️ Frontend Chess Design
+A responsive chess homepage design UI built with HTML, CSS, and JavaScript.
 
-`Laravel` `PHP` `MySQL`
+`HTML5` `CSS3` `JavaScript`
 
-</td>
-<td width="50%">
-
-### 📚 StudyVault
-PHP/MySQL courses, notes & books store using the PRG (Post/Redirect/Get) pattern.
-
-`PHP` `MySQL`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🏫 Academy Platform
-Full-stack multi-role academy platform with a manual payment flow and admin panel.
-
-`PHP` `MySQL`
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/asad-developer99/frontend-chess-design)
 
 </td>
 <td width="50%">
 
-### 📧 MailFlux
-Disposable email platform on Laravel 11 with a real-time stack.
+### 🔐 VIP Login & Signup
+A modern and responsive login and signup interface built with HTML, CSS, and JavaScript.
 
-`Laravel 11` `Real-time`
+`HTML5` `CSS3` `JavaScript`
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/asad-developer99/vip-login-signup)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🧠 GK Memory Master
-Spaced-repetition general knowledge quiz app in core PHP/MySQL.
+### 🎓 Educamb
+A responsive HTML/CSS education website template for schools, colleges, and learning centers — built with Bootstrap, featuring course listings, faculty profiles, and event pages.
 
-`PHP` `MySQL`
+`HTML5` `Bootstrap`
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/asad-developer99/educamb)
 
 </td>
 <td width="50%">
 
-### 🛍️ Forever Store
-E-commerce store, converted from a JS stack to a pure PHP/MySQL implementation.
+### 💼 Portfolio
+My first ever personal developer portfolio.
 
-`PHP` `MySQL`
+`TypeScript`
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/asad-developer99/portfolio)
 
 </td>
 </tr>
